@@ -1,0 +1,7 @@
+a=int64(8999990);
+b=[];
+while a
+    c=rem(a,10);
+    
+    b=[b a];
+end
