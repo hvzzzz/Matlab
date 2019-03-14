@@ -1,0 +1,3 @@
+-En el archivo calls.m se encuentran las llamadas de las funciones con los problemas del examen 
+-En el archivo de odes se encuentran las llamadas del metodo de Rouge Kutta y euler con sus respectivas graficas
+-Los archivos my_eulers.m y modeuler.m tienen como output el valor iterado en un punto cuaquiera, por ello la necesidad del archivo odes para resolver los problemas del examen
