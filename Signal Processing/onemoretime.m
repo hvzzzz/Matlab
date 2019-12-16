@@ -53,7 +53,8 @@ stem(n,x);%graficamos los valores discretos contenidos en 'n' y 'x'
 title('Entrada');%damos un titulo al subgrafico
 subplot(2,1,2);%indicamos la posicion del segundo subgrafico
 stem(n,y);%graficamos los valores discretos contenidos en 'n' y 'y'
-title('Respuesta al Impulso');%damos titulo al grafico
+title('Respuesta al Escalon');%damos titulo al grafico
+
 %%
 %Respuesta al Impulso del sistema 
 n=0:100;%generamos un vector de tamaño 101 con valores ascendentes  
